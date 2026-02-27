@@ -12,7 +12,7 @@ I am currently learning Python and GitHub, building my programming skills step b
 - 👩‍💻 Working on a team project called **"The Calculator"**
 - 🎥 Watching videos about programming in my free time
 
-## 💡 About Me
+## 💡 other interest
 
 I'm passionate about learning new things and improving my skills every day.  
 I enjoy teamwork, solving problems, and challenging myself with new projects.
